@@ -25,7 +25,12 @@
 <img src="https://raw.githubusercontent.com/muzairon27/muzairon27/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<div align="center">
+  <a href="https://open.spotify.com/user/Zayy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Zayy&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31srvina4lhwkgps2whz5rohwld4&unique={true|1|on|yes})
 
 ##
