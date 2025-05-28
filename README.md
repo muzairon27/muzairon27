@@ -27,6 +27,14 @@
 ###
 
 <div align="center">
+  <a href="https://open.spotify.com/user/Zayy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Zayy&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/muzairon27/count.svg?"  />
 </div>
 
