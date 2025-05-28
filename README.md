@@ -25,3 +25,9 @@
 <img src="https://raw.githubusercontent.com/muzairon27/muzairon27/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/muzairon27/count.svg?"  />
+</div>
+
+###
