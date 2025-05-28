@@ -26,6 +26,10 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31srvina4lhwkgps2whz5rohwld4&unique={true|1|on|yes})
+
+##
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/muzairon27/count.svg?"  />
 </div>
