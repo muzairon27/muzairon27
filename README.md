@@ -1,7 +1,6 @@
 ### Hi World! I'm Muhammad Uzairon 👋
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJpdGtlOWNmbm4wMnd3OTllcWZhM3czMTQwb2tsank0a3hsc3czcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V69LhUggYIg6qmKUoD/giphy.gif"  />
    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNkaWszc2lra3VvZjlsNzh0eTRxdGo5a2twNm5vMXV1dWtveTNtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n440jTfv4gpGK1LItq/giphy.gif"  />
 </div>
 
